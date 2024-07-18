@@ -31,6 +31,13 @@ PICTURE OF DIAGRAM:
 ![image](https://github.com/user-attachments/assets/c8231bed-8a0c-40ea-9b81-e45281907638)
 
 
+TEMPERATURE REGULATION
+
+Diagram shows system that can regulate temperature etc. liquid temp. It has also alarm and counter for temperature variations.
+
+Picture of DIAGRAM:
+![image](https://github.com/user-attachments/assets/a24224fe-188f-4141-8684-475a5fde4a7b)
+
 
 
 
